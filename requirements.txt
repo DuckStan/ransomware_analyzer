@@ -1,0 +1,8 @@
+pefile
+json
+subprocess
+win32api
+xml.etree.ElementTree
+shutil
+win32con
+hashlib
